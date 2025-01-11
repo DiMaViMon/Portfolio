@@ -1,5 +1,5 @@
 import '../styles/About.css'
-import voban from '../assets/voban.png'
+import blaise from '../assets/blaise.png'
 import lonion from '../assets/lonion.png'
 import moi from '../assets/moi.jpg'
 
@@ -10,9 +10,9 @@ function About() {
 				<div className="presentation-text">
 					<h2>Bienvenue sur mon portfolio</h2>
 					<p>
-					Bonjour, je m’appelle Timothé Picot, j'ai 19 ans et je suis étudiant en BUT informatique à l’IUT de Lannion.
-					J'étudie le développement web et je vais vous faire part sur ce site des projets réalisés lors de mes études.</p>
-					<p>J'ai pour ambition de continuer mes études en école d'ingénieur après mon BUT ainsi que de trouver une alternance dans le développement web.
+					Bonjour, je m’appelle Diane Monéger, j'ai 20 ans et je suis étudiante en BUT informatique à l’IUT de Lannion.
+					J'étudie les bases de données et je vais vous faire part sur ce site des projets réalisés lors de mes études ainsi que dans le cadre de mon alternance.</p>
+					<p>J'ai pour ambition de continuer mes études en école d'ingénieur après mon BUT.
 					</p>
 				</div>
 				<div className="presentation-image">
@@ -23,10 +23,11 @@ function About() {
 				<h2>Mon Parcours Scolaire</h2>
 				<div className="parcours-container">
 					<div className="parcours-item">
-						<a href="https://www.lycee-vauban-brest.ac-rennes.fr/">
-							<img src={voban} alt={`${voban} cover`}></img>
+						<a href="https://lyc-blaise-pascal-clermont.ent.auvergnerhonealpes.fr/">
+							<img src={blaise} alt={`${blaise} cover`}></img>
 						</a>
-						<p>Bac général Spécialité Math / NSI</p>
+						<p>Bac section européenne général</p>
+						<p>spécialité LLCER / NSI</p>
 					</div>
 					<div className="parcours-item">
 						<a href="https://iut-lannion.univ-rennes.fr/informatique">

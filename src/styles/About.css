@@ -28,6 +28,7 @@
     height: 50%;
     border-radius: 50%;
 }
+
 .parcours-container {
     display: flex;
     flex-direction: row;

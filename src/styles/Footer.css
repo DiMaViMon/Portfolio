@@ -25,14 +25,14 @@ footer {
   .cv-button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #f6bcc4;
     color: #fff;
     text-decoration: none;
     border-radius: 4px;
   }
   
   .cv-button:hover {
-    background-color: #0056b3;
+    background-color: #f9ccd7;
   }
   
   .txt-ou{
