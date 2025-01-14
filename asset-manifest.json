@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.be55207b.css",
-    "main.js": "/Portfolio/static/js/main.1c6abdd0.js",
+    "main.js": "/Portfolio/static/js/main.422a6c91.js",
     "static/media/logo_loapique.png": "/Portfolio/static/media/logo_loapique.1f91dc4a3f9b7af090b6.png",
     "static/media/CV_Diane.pdf": "/Portfolio/static/media/CV_Diane.6c7efedfd2ff8bfcc8d5.pdf",
     "static/media/kwh_logo.png": "/Portfolio/static/media/kwh_logo.2a16af5cd24bc83e81be.png",
@@ -11,10 +11,10 @@
     "static/media/p4.png": "/Portfolio/static/media/p4.712e8d3960549d14c560.png",
     "index.html": "/Portfolio/index.html",
     "main.be55207b.css.map": "/Portfolio/static/css/main.be55207b.css.map",
-    "main.1c6abdd0.js.map": "/Portfolio/static/js/main.1c6abdd0.js.map"
+    "main.422a6c91.js.map": "/Portfolio/static/js/main.422a6c91.js.map"
   },
   "entrypoints": [
     "static/css/main.be55207b.css",
-    "static/js/main.1c6abdd0.js"
+    "static/js/main.422a6c91.js"
   ]
 }
