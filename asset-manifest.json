@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.be55207b.css",
+    "main.js": "/Portfolio/static/js/main.6d13f4dd.js",
+    "static/media/logo_loapique.png": "/Portfolio/static/media/logo_loapique.1f91dc4a3f9b7af090b6.png",
+    "static/media/CV_Diane.pdf": "/Portfolio/static/media/CV_Diane.6c7efedfd2ff8bfcc8d5.pdf",
+    "static/media/kwh_logo.png": "/Portfolio/static/media/kwh_logo.2a16af5cd24bc83e81be.png",
+    "static/media/blaise.png": "/Portfolio/static/media/blaise.d60378dbcea7e8819d9b.png",
+    "static/media/Logo_LivreaPiques.png": "/Portfolio/static/media/Logo_LivreaPiques.a3bf7cb801f4314ce4e4.png",
+    "static/media/moi.jpg": "/Portfolio/static/media/moi.40f5b9b1b5b1f8dc756f.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.be55207b.css.map": "/Portfolio/static/css/main.be55207b.css.map",
+    "main.6d13f4dd.js.map": "/Portfolio/static/js/main.6d13f4dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be55207b.css",
+    "static/js/main.6d13f4dd.js"
+  ]
+}
